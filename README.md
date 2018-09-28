@@ -78,8 +78,17 @@
 
 
 ## 网络访问
+[官文介绍-原生API实现网络请求](https://developer.android.google.cn/training/basics/network-ops/)
 
+[官文介绍-Volley](https://developer.android.google.cn/training/volley/)
 
+[Http网络请求HttpURLConnection应用](https://blog.csdn.net/linglongxin24/article/details/52881950)
+
+[Volley源码解析](http://www.codekk.com/blogs/detail/54cfab086c4761e5001b2542)
+
+[Okhttp完成解析](https://blog.csdn.net/lmj623565791/article/details/47911083)
+
+[Retrofit2 完全解析](https://blog.csdn.net/lmj623565791/article/details/51304204)
 
 ## 数据存储
 

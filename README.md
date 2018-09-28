@@ -50,26 +50,31 @@
 ### ConstrainLayout
 [ConstrainLayout布局知识点](https://blog.csdn.net/lmj623565791/article/details/78011599)
 
+### PercentLayout
+[PercentLayout布局知识点](https://blog.csdn.net/lmj623565791/article/details/46695347)
+
 ## 基础控件
 
 ### TextView
-
-
-
-### ImageView
-
+[官方介绍-TextView](https://developer.android.google.cn/guide/topics/ui/look-and-feel/autosizing-textview)
+[TextView 基础介绍](https://www.cnblogs.com/plokmju/p/Android_UI_TextView.html)
+[TextView 技巧点](https://juejin.im/entry/58d4c21fa22b9d0064552f1f)
 
 
 ### Button
-
-
+[官文介绍-Button](https://developer.android.google.cn/guide/topics/ui/controls/button)
 
 ### CheckBox
+[官文介绍-CheckBox](https://developer.android.google.cn/guide/topics/ui/controls/checkbox)
 
+### Spinner
+[官文介绍-Spinner](https://developer.android.google.cn/guide/topics/ui/controls/spinner)
 
+### Picker
+[官文介绍-Pickers](https://developer.android.google.cn/guide/topics/ui/controls/pickers)
 
 ### RecyclerView
-
+[Android RecyclerView 使用完全解析 体验艺术般的控件](https://blog.csdn.net/lmj623565791/article/details/45059587)
 
 
 ## 网络访问

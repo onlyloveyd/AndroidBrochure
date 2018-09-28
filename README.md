@@ -91,8 +91,23 @@
 [Retrofit2 完全解析](https://blog.csdn.net/lmj623565791/article/details/51304204)
 
 ## 数据存储
+[官文介绍-Android数据存储](https://developer.android.google.cn/guide/topics/data/)
 
+[全面剖析SharedPreferences](http://gityuan.com/2017/06/18/SharedPreferences/)
 
+[彻底理解android中的内部存储与外部存储](https://blog.csdn.net/u012702547/article/details/50269639)
+
+[SQLlite数据库使用手册](https://www.jianshu.com/p/8e3f294e2828)
+
+[彻底解析Android缓存机制——LruCache](https://www.jianshu.com/p/b49a111147ee)
+
+[Android DiskLruCache 源码解析 硬盘缓存的绝佳方案](https://blog.csdn.net/lmj623565791/article/details/47251585)
+
+[Android照片墙完整版，完美结合LruCache和DiskLruCache](https://blog.csdn.net/guolin_blog/article/details/34093441)
+
+[Android DiskLruCache完全解析，硬盘缓存的最佳方案](https://blog.csdn.net/guolin_blog/article/details/28863651)
+
+[腾讯MMKV 组件](https://mp.weixin.qq.com/s/4MHgs4qpLt7krpmIp9rgRg)
 
 ## 用户交互
 

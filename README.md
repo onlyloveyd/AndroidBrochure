@@ -110,8 +110,13 @@
 [腾讯MMKV 组件](https://mp.weixin.qq.com/s/4MHgs4qpLt7krpmIp9rgRg)
 
 ## 用户交互
+[官文介绍-用户界面系列](https://developer.android.google.cn/guide/topics/ui/)
 
+[Android 高级自定义Toast及源码解析](https://blog.csdn.net/qq_17250009/article/details/52753929)
 
+[SnackBar使用以及源码分析](https://www.cnblogs.com/damumu/p/7320866.html)
+
+[自定义Dialog](https://www.jianshu.com/p/d893ba8608ae)
 
 ## 图片加载
 

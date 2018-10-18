@@ -142,4 +142,9 @@
 
 
 ## 系统源码
+[老罗的Android之旅](https://blog.csdn.net/column/details/androidluo.html)
+[老罗个人博客](https://blog.csdn.net/luoshengyang)
 
+## 持续集成
+[Android Jenkins](https://blog.csdn.net/zhaoyanjun6/article/details/77102359)
+[Travis CI](https://www.travis-ci.org/)

@@ -77,6 +77,8 @@
 ### RecyclerView
 [Android RecyclerView 使用完全解析 体验艺术般的控件](https://blog.csdn.net/lmj623565791/article/details/45059587)
 
+### Fragment
+[Fragment生命周期](http://www.cnblogs.com/purediy/p/3276545.html)
 
 ## 网络访问
 [官文介绍-原生API实现网络请求](https://developer.android.google.cn/training/basics/network-ops/)

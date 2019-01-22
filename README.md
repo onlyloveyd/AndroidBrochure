@@ -1,5 +1,3 @@
-# AndroidBrochure
-
 ## Android 四大组件
 
 ### Activity
@@ -141,6 +139,9 @@
 
 
 [Picasso源码解析](https://blog.csdn.net/woliuyunyicai/article/details/51417839)
+
+## Dagger2
+[Dagger2图文介绍](https://github.com/luxiaoming/dagger2Demo)
 
 
 ## 系统源码

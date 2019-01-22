@@ -142,6 +142,7 @@
 
 ## Dagger2
 [Dagger2图文介绍](https://github.com/luxiaoming/dagger2Demo)
+[Android 依赖注入框架 Dagger 2.1 详解](https://www.jianshu.com/u/1bcfdb6fad58)
 
 
 ## 系统源码

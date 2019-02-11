@@ -4,4 +4,4 @@
 
 3. [XRefreshView-下拉刷新加载更多](https://github.com/huxq17/XRefreshView)
 
-4. [VerticalTabLayout-纵向](https://github.com/qstumn/VerticalTabLayout)
+4. [VerticalTabLayout-纵向TabLayout](https://github.com/qstumn/VerticalTabLayout)

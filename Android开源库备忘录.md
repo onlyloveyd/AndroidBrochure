@@ -3,3 +3,5 @@
 2. [ScaleView-滚动刻度尺](https://github.com/LichFaker/ScaleView)
 
 3. [XRefreshView-下拉刷新加载更多](https://github.com/huxq17/XRefreshView)
+
+4. [VerticalTabLayout-纵向](https://github.com/qstumn/VerticalTabLayout)

@@ -7,3 +7,5 @@
 4. [VerticalTabLayout-纵向TabLayout](https://github.com/qstumn/VerticalTabLayout)
 
 5. [ScrollableLayout-配合列表使用](https://github.com/w446108264/ScrollableLayout)
+
+6. [WaveLoadingView-波浪纹进度条](https://github.com/tangqi92/WaveLoadingView)

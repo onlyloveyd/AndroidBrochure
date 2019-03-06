@@ -10,6 +10,6 @@
 
 6. [WaveLoadingView-波浪纹进度条](https://github.com/tangqi92/WaveLoadingView)
 
-7. [长图查看，不支持Gif](https://github.com/davemorrissey/subsampling-scale-image-view) 
+7. [subsampling-scale-image-view-长图查看，不支持Gif](https://github.com/davemorrissey/subsampling-scale-image-view) 
 
-8. [大图查看，支持gif,不支持长图](https://github.com/chrisbanes/PhotoView)
+8. [PhotoView-大图查看，支持gif,不支持长图](https://github.com/chrisbanes/PhotoView)

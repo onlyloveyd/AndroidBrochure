@@ -164,3 +164,5 @@
 
 ## 工具类网站
 [在线的正则表达式辅助工具Regex](https://regex101.com/)
+[TinyPNG 图片压缩](https://tinypng.com/)
+[Squoosh App 图片压缩](https://squoosh.app/)
